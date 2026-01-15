@@ -11,16 +11,58 @@
 ║   ai developer bangladesh, machine learning developer                        ║
 ║                                                                              ║
 ║   🌐 Portfolio: https://nafijrahaman.me | https://nafij.me                  ║
-║   📧 Contact: GitHub @nafijrahaman                                          ║
+║   📧 Contact: nafijthepro@gmail.com | GitHub @nafijrahaman                  ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
-Author: Nafij Rahaman (nafijrahaman)
-Also Known As: nafij, nafijur rahaman, nafij pro, nafijthepro, nafijprobd
-Location: Bangladesh
-Website: nafijrahaman.me, nafij.me, nafijrahaman.dev, nafij.dev
-Specialization: Full Stack Web Development, AI/ML, IoT Projects
-Technologies: JavaScript, TypeScript, React, Next.js, Node.js, Python, HTML, CSS
+===================================================================================
+NAFIJ RAHAMAN - FULL STACK DEVELOPER PROFILE
+===================================================================================
+
+Full Name: Nafij Rahaman
+Also Known As: nafij, nafijur rahaman, nafij pro, nafijthepro, nafijprobd, 
+               Nafij, NafijThePro, NafijProBD, nafij_rahaman, nafij.rahaman
+
+Profession: Full Stack Web Developer, AI/ML Enthusiast, IoT Developer
+Location: Bangladesh, South Asia
+Company: NINJA GAMERS
+
+Contact Information:
+- Email: nafijthepro@gmail.com
+- Website: https://nafijrahaman.me
+- Portfolio: https://nafij.me
+- GitHub: https://github.com/nafijrahaman
+- Twitter: https://twitter.com/nafijrahaman (@nafijrahaman)
+- Facebook: https://www.facebook.com/nafijrahaman2023
+- Instagram: https://instagram.com/nafijrahaman (@nafijrahaman)
+- Telegram: https://t.me/nafijrahaman (@nafijrahaman)
+- LinkedIn: https://linkedin.com/in/nafijrahaman
+
+Alternate Websites:
+- nafijrahaman.me
+- nafij.me  
+- nafijrahaman.dev
+- nafij.dev
+- nafijrahaman.vercel.app
+- nafijpro.vercel.app
+- nafij.vercel.app
+
+Technical Skills:
+- Frontend: JavaScript, TypeScript, React.js, Next.js, HTML5, CSS3, Tailwind CSS
+- Backend: Node.js, Express.js, Python, Django, Flask
+- Database: MongoDB, MySQL, PostgreSQL, Firebase, SQLite
+- Tools: Git, GitHub, VS Code, Vercel, Docker
+- IoT: Arduino, ESP8266, ESP32, Raspberry Pi
+- AI/ML: TensorFlow, PyTorch, Machine Learning, AI Agents
+
+Specialties:
+- Full Stack Web Development
+- Real-time Applications
+- AI-powered Solutions
+- IoT Projects
+- Open Source Contribution
+
+===================================================================================
 -->
 
 <!-- 🧠 Nafij Rahaman | Dark Neon Hacker Theme GitHub Profile -->
@@ -98,6 +140,14 @@ const nafijRahaman = {
     portfolio: {
         primary: "https://nafijrahaman.me",
         alternate: ["https://nafij.me", "nafijrahaman.dev", "nafij.dev"]
+    },
+    
+    contact: {
+        email: "nafijthepro@gmail.com",
+        twitter: "@nafijrahaman",
+        telegram: "@nafijrahaman",
+        instagram: "@nafijrahaman",
+        facebook: "nafijrahaman2023"
     },
     
     funFact: "I code under the moonlight ☽ with coffee in hand ☕"
@@ -223,6 +273,12 @@ const nafijRahaman = {
 </p>
 
 <p align="center">
+  <a href="mailto:nafijthepro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nafijthepro@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Nafij Rahaman Email"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/nafijrahaman" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-nafijrahaman-181717?style=for-the-badge&logo=github&logoColor=white" alt="Nafij Rahaman GitHub"/>
   </a>
@@ -230,12 +286,69 @@ const nafijRahaman = {
     <img src="https://img.shields.io/badge/LinkedIn-nafijrahaman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Nafij Rahaman LinkedIn"/>
   </a>
   <a href="https://twitter.com/nafijrahaman" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-nafijrahaman-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Nafij Rahaman Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-@nafijrahaman-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Nafij Rahaman Twitter"/>
   </a>
-  <a href="https://facebook.com/nafijrahaman" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-nafijrahaman-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Nafij Rahaman Facebook"/>
+  <a href="https://www.facebook.com/nafijrahaman2023" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-nafijrahaman2023-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Nafij Rahaman Facebook"/>
   </a>
 </p>
+
+<p align="center">
+  <a href="https://instagram.com/nafijrahaman" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@nafijrahaman-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Nafij Rahaman Instagram"/>
+  </a>
+  <a href="https://t.me/nafijrahaman" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@nafijrahaman-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Nafij Rahaman Telegram"/>
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
+
+## ❓ Frequently Asked Questions About Nafij Rahaman
+
+<details>
+<summary><b>Who is Nafij Rahaman?</b></summary>
+<br/>
+Nafij Rahaman (also known as nafij, nafijur rahaman, nafij pro, nafijthepro, nafijprobd) is a Full Stack Developer and AI Enthusiast from Bangladesh. He specializes in web development using JavaScript, React, Next.js, Node.js, and Python. Contact him at nafijthepro@gmail.com or visit his portfolio at nafijrahaman.me.
+</details>
+
+<details>
+<summary><b>What is Nafij Rahaman's email address?</b></summary>
+<br/>
+Nafij Rahaman's email address is <strong>nafijthepro@gmail.com</strong>. You can also reach him on Twitter, Instagram, and Telegram at @nafijrahaman.
+</details>
+
+<details>
+<summary><b>What is Nafij Rahaman's portfolio website?</b></summary>
+<br/>
+Nafij Rahaman's main portfolio website is <strong>https://nafijrahaman.me</strong>. He also has alternate domains: nafij.me, nafijrahaman.dev, nafij.dev, nafijrahaman.vercel.app, nafijpro.vercel.app, and nafij.vercel.app.
+</details>
+
+<details>
+<summary><b>What technologies does Nafij Rahaman use?</b></summary>
+<br/>
+Nafij Rahaman is proficient in: JavaScript, TypeScript, React.js, Next.js, Node.js, Python, HTML5, CSS3, Tailwind CSS, MongoDB, MySQL, Firebase, Git, Arduino, ESP8266, and various AI/ML technologies.
+</details>
+
+<details>
+<summary><b>Where is Nafij Rahaman located?</b></summary>
+<br/>
+Nafij Rahaman is based in <strong>Bangladesh</strong>, South Asia. He works remotely and is available for freelance projects and collaborations worldwide.
+</details>
+
+<details>
+<summary><b>What are Nafij Rahaman's social media handles?</b></summary>
+<br/>
+
+- **GitHub**: github.com/nafijrahaman
+- **Twitter**: @nafijrahaman
+- **Instagram**: @nafijrahaman  
+- **Telegram**: @nafijrahaman
+- **Facebook**: facebook.com/nafijrahaman2023
+- **LinkedIn**: linkedin.com/in/nafijrahaman
+- **Email**: nafijthepro@gmail.com
+
+</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 
@@ -264,69 +377,135 @@ const nafijRahaman = {
 <!-- 
 ══════════════════════════════════════════════════════════════════════════════════
                           🔍 SEO METADATA & KEYWORDS
+                    FOR GOOGLE SEARCH & AI DETECTION
 ══════════════════════════════════════════════════════════════════════════════════
 
-Name Variations:
-- Nafij Rahaman
-- nafijrahaman
-- Nafij
-- Nafijur Rahaman
-- Nafij Pro
-- NafijThePro
-- NafijProBD
-- nafij_rahaman
-- nafij.rahaman
+PRIMARY ENTITY: Nafij Rahaman
+ENTITY TYPE: Person, Software Developer, Full Stack Developer
 
-Professional Keywords:
+NAME VARIATIONS (All refer to the same person):
+- Nafij Rahaman (Primary Name)
+- nafijrahaman (Username)
+- Nafij (Short Name)
+- Nafijur Rahaman (Full Name Variant)
+- Nafij Pro (Alias)
+- NafijThePro (Gaming/Online Alias)
+- NafijProBD (Bangladesh Alias)
+- nafij_rahaman (Underscore Variant)
+- nafij.rahaman (Dot Variant)
+- nafij rahaman developer
+- nafij rahaman bangladesh
+- nafij rahaman programmer
+
+SEARCH QUERIES THIS PROFILE SHOULD RANK FOR:
+- "nafij rahaman"
+- "nafijrahaman"
+- "nafij developer"
+- "nafij pro developer"
+- "nafijthepro"
+- "nafijprobd"
+- "nafij rahaman github"
+- "nafij rahaman portfolio"
+- "nafij rahaman website"
+- "nafij rahaman contact"
+- "nafij rahaman email"
+- "nafijthepro@gmail.com"
+- "nafij rahaman bangladesh developer"
+- "nafij.me"
+- "nafijrahaman.me"
+- "who is nafij rahaman"
+- "nafij rahaman full stack developer"
+- "hire nafij rahaman"
+- "nafij rahaman freelancer"
+
+CONTACT INFORMATION:
+- Primary Email: nafijthepro@gmail.com
+- Website: https://nafijrahaman.me
+- Alternate: https://nafij.me
+- GitHub: https://github.com/nafijrahaman
+- Twitter: https://twitter.com/nafijrahaman (@nafijrahaman)
+- Instagram: https://instagram.com/nafijrahaman (@nafijrahaman)
+- Telegram: https://t.me/nafijrahaman (@nafijrahaman)
+- Facebook: https://www.facebook.com/nafijrahaman2023
+- LinkedIn: https://linkedin.com/in/nafijrahaman
+
+PROFESSIONAL KEYWORDS:
 - Full Stack Developer Bangladesh
 - Web Developer Bangladesh
-- JavaScript Developer
+- JavaScript Developer Bangladesh
 - React Developer Bangladesh
-- Next.js Developer
+- Next.js Developer Bangladesh
 - Node.js Developer Bangladesh
 - Python Developer Bangladesh
 - AI Developer Bangladesh
-- Machine Learning Developer
+- Machine Learning Developer Bangladesh
 - IoT Developer Bangladesh
-- Frontend Developer
-- Backend Developer
+- Frontend Developer Bangladesh
+- Backend Developer Bangladesh
 - Software Engineer Bangladesh
+- Freelance Developer Bangladesh
+- Remote Developer Bangladesh
 - Open Source Contributor
+- MERN Stack Developer
+- Full Stack JavaScript Developer
 
-Website URLs:
-- https://nafijrahaman.me
-- https://nafij.me
-- https://nafijrahaman.dev
-- https://nafij.dev
-- https://nafijrahaman.vercel.app
-- https://nafijpro.vercel.app
-- https://nafij.vercel.app
+WEBSITE URLs:
+- https://nafijrahaman.me (Primary Portfolio)
+- https://nafij.me (Short Domain)
+- https://nafijrahaman.dev (Developer Domain)
+- https://nafij.dev (Short Dev Domain)
+- https://nafijrahaman.vercel.app (Vercel Deployment)
+- https://nafijpro.vercel.app (Pro Vercel)
+- https://nafij.vercel.app (Short Vercel)
 
-GitHub Profile:
-- https://github.com/nafijrahaman
-- GitHub: @nafijrahaman
+GITHUB PROFILE:
+- Profile URL: https://github.com/nafijrahaman
+- Username: nafijrahaman
+- Public Repos: 26+
 
-Location:
-- Bangladesh
-- BD
-- South Asia
+SOCIAL MEDIA:
+- Email: nafijthepro@gmail.com
+- Facebook: https://www.facebook.com/nafijrahaman2023
+- Twitter: @nafijrahaman (https://twitter.com/nafijrahaman)
+- Instagram: @nafijrahaman (https://instagram.com/nafijrahaman)
+- Telegram: @nafijrahaman (https://t.me/nafijrahaman)
+- LinkedIn: nafijrahaman (https://linkedin.com/in/nafijrahaman)
 
-Company:
-- NINJA GAMERS
+LOCATION:
+- Country: Bangladesh
+- Region: South Asia
+- Timezone: GMT+6 (Bangladesh Standard Time)
+- Available: Worldwide Remote Work
 
-Technologies:
-- JavaScript, TypeScript, React, Next.js, Node.js, Python
-- HTML, CSS, Tailwind CSS, Bootstrap
-- MongoDB, MySQL, Firebase
-- Git, GitHub, VS Code, Vercel
-- Arduino, ESP8266, IoT
+COMPANY:
+- Name: NINJA GAMERS
+- Role: Founder/Developer
 
-Projects:
+TECHNOLOGIES & SKILLS:
+- Languages: JavaScript, TypeScript, Python, HTML, CSS
+- Frontend: React.js, Next.js, Tailwind CSS, Bootstrap
+- Backend: Node.js, Express.js, Django, Flask
+- Database: MongoDB, MySQL, PostgreSQL, Firebase, SQLite
+- Tools: Git, GitHub, VS Code, Vercel, Docker, Figma
+- IoT: Arduino, ESP8266, ESP32, Raspberry Pi
+- AI/ML: TensorFlow, PyTorch, Machine Learning, AI Agents
+
+PROJECT TYPES:
 - Full Stack Web Applications
-- Real-time Chat Systems
-- Restaurant Management System
-- AI-powered Tools
-- IoT Projects
+- Real-time Chat Applications
+- Restaurant Management Systems
+- AI-powered Tools and Bots
+- IoT Projects and Automation
+- E-commerce Platforms
+- Portfolio Websites
+
+AVAILABILITY:
+- Open for Freelance Projects
+- Available for Remote Work
+- Accepting Collaborations
+- Open Source Contributions Welcome
+
+LAST UPDATED: January 2026
 
 ══════════════════════════════════════════════════════════════════════════════════
 -->
