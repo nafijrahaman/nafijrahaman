@@ -4,7 +4,7 @@
 ║   🧠 NAFIJ RAHAMAN | Full Stack Developer | AI Enthusiast | Bangladesh      ║
 ║   Dark Neon Hacker Theme GitHub Profile README                               ║
 ║                                                                              ║
-║   🔍 SEO Keywords: nafijrahaman, nafij, nafijur rahaman, nafij pro,         ║
+║   🔍 My Identity : nafijrahaman, nafij, nafijur rahaman, nafij pro,         ║
 ║   nafijthepro, nafijprobd, nafij.me, nafijrahaman.me, nafijrahaman.dev,     ║
 ║   full stack developer bangladesh, web developer bangladesh,                 ║
 ║   javascript developer, react developer, nextjs developer,                   ║
